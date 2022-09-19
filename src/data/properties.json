@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "SellRent":1,
+    "Type": "House",
+    "Price": 12000,
+    "Name": "Infosys",
+    "Image":"house_default"
+  },
+  {
+    "Id": 2,
+    "SellRent":1,
+
+    "Type": "Office",
+    "Price": 200,
+    "Name": "Infosys",
+    "Image":"prop_1"
+  },
+  {
+    "Id": 3,
+    "SellRent":1,
+
+    "Type": "Home",
+    "Price": 12040,
+    "Name": "Google",
+    "Image":"prop_1"
+  },
+  {
+    "Id": 14,
+    "SellRent":2,
+
+    "Type": "Villa",
+    "Price": 2000,
+    "Name": "Wipro"
+   , "Image":"prop_1"
+  }
+]

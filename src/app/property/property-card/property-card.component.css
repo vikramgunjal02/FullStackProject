@@ -1,3 +1,31 @@
 .propImg{
   height: 250px;
 }
+
+
+.card1:hover img{
+  transform: scale(1.1,1.1);
+  transition-duration: 500ms;
+  transition-timing-function: ease-out;
+  height: 250px;
+}
+
+
+.member-icon{
+  position: absolute;
+  bottom: -10%;
+  left: 0;
+  right: 0;
+  margin-right: auto;
+  margin-left: auto;
+  opacity: 0;
+}
+
+card-img-wrapper:hover .member-icon{
+  bottom: 0;
+  opacity: 1;
+}
+
+.animate{
+  transition: all 0.3s ease-in-out;
+}
